@@ -1,2 +1,12 @@
 # Cinder-Syphon-Demo
-Simple demo using gaborpapp's Cinder-Syphon fork
+
+Simple demo using [gaborpapp](https://github.com/gaborpapp/)'s [Cinder-Syphon fork for glNext](https://github.com/gaborpapp/Cinder-Syphon/tree/glNext).
+
+Clone this project into a subfolder within your Cinder directory so that the structure looks as follows:
+
+```
+Cinder/blocks/...
+Cinder/include/...
+Cinder/YOUR_PROJECTS_FOLDER/Cinder-Syphon-Demo/blocks/...
+Cinder/YOUR_PROJECTS_FOLDER/Cinder-Syphon-Demo/include/...
+```
